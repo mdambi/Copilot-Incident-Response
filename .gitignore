@@ -1,0 +1,9 @@
+# Script output: contains user names, URLs, mail metadata
+CopilotIncident_*/
+CopilotIncidentReport*.html
+*.csv
+*.log
+# Secrets
+*.pfx
+*.pem
+.env
